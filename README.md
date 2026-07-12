@@ -202,6 +202,15 @@ Metrics include average, median, minimum, and maximum values.
 - Timeline functionality was not implemented because the dataset does not include a valid date column.
 - Power BI analysis was considered an optional extension and is not included in this repository.
 
+## How to Use
+
+1. Download `credit_card_customer_segmentation_analysis.xlsm`.
+2. Open the workbook in Microsoft Excel.
+3. Enable macros when prompted.
+4. Enable the Solver Add-in if it is not already active.
+5. Use the slicers and dashboard controls to explore customer segments.
+6. Use the `Data Refresh` and `Monthly Report` buttons for the VBA automations.
+
 ## Repository Structure
 
     credit-card-customer-segmentation/
